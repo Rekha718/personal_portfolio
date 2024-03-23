@@ -370,6 +370,15 @@ form .btn2{
     margin-top:20px; 
 }
 
+#map {
+    margin-top: 20px; 
+  }
+  
+  iframe {
+    width: 50%; 
+    height: 150px; 
+  }
+
 /*-------------- CSS for small screen -----------*/
 
 nav .fa-solid{
